@@ -10,5 +10,5 @@ string convert(string text, int nRows);<br>
 convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".<br>
 
 主要出错地方：那个if语句顺序不能颠倒；<br>
-            if (i < nRows - 1 && i>0 && j>i)  //这一句还是不能太理解，主要是为了输出中间单独一行的字母 <br>
+            if (i < nRows - 1 && i > 0 && j > i)  //这一句还是不能太理解，主要是为了输出中间单独一行的字母 <br>
                 result += s.at(j - i);      
