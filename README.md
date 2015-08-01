@@ -11,3 +11,6 @@
   009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                 |[C++](https://github.com/xujiada/project/tree/master/009%20Palindrome%20Number)                                      |
   012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                 |[C++](https://github.com/xujiada/project/tree/master/012%20Integer%20to%20Roman)                                     |
   013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                 |[C++](https://github.com/xujiada/project/tree/master/013%20Roman%20to%20Integer)                                     |
+  014 | [Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/)                 |[C++](https://github.com/xujiada/LeetCode/tree/master/014%20Longest%20Common%20Prefix)                              
+|
+  019 | [Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/019%20Remove%20Nth%20Node%20From%20End%20of%20List)            |
