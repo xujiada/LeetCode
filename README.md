@@ -15,4 +15,5 @@
 |
   019 | [Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/019%20Remove%20Nth%20Node%20From%20End%20of%20List)            |
   020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/020%20Valid%20Parentheses)            |
-  021 | [Merge Two Sorted Lists ](htthttps://leetcode.com/problems/merge-two-sorted-lists/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/021%20Merge%20Two%20Sorted%20Lists)            |
+  021 | [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/021%20Merge%20Two%20Sorted%20Lists)            |
+  024 | [Swap Nodes in Pairs  ](https://leetcode.com/problems/swap-nodes-in-pairs/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/024%20Swap%20Nodes%20in%20Pairs)            |
