@@ -17,3 +17,5 @@
   020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/020%20Valid%20Parentheses)            |
   021 | [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/021%20Merge%20Two%20Sorted%20Lists)            |
   024 | [Swap Nodes in Pairs  ](https://leetcode.com/problems/swap-nodes-in-pairs/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/024%20Swap%20Nodes%20in%20Pairs)            |
+  026 | [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/026%20Remove%20Duplicates%20from%20Sorted%20Array)            |
+  027 | [Remove Element ](https://leetcode.com/problems/remove-element/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/027%20Remove%20Element)            |
