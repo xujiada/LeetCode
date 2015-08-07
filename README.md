@@ -19,3 +19,5 @@
   024 | [Swap Nodes in Pairs  ](https://leetcode.com/problems/swap-nodes-in-pairs/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/024%20Swap%20Nodes%20in%20Pairs)            |
   026 | [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/026%20Remove%20Duplicates%20from%20Sorted%20Array)            |
   027 | [Remove Element ](https://leetcode.com/problems/remove-element/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/027%20Remove%20Element)            |
+ 034 | [Search for a Range ](https://leetcode.com/problems/search-for-a-range/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/034%20Search%20for%20a%20Range)            |
+  035 | [Search Insert Position ](https://leetcode.com/problems/search-insert-position/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/035%20Search%20Insert%20Position)            |
