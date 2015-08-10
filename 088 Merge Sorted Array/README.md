@@ -9,7 +9,7 @@ void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) { <br>
         int i = n + m - 1, x = m - 1, y = n - 1;<br>
         
         while( y >= 0)<br>
-        {<br>
-            nums1[i--] = x >=0 && nums1[x] > nums2[y] ? nums1[x--]: nums2[y--];<br>
-        }<br>
-    }<br>
+        {
+            nums1[i--] = x >=0 && nums1[x] > nums2[y] ? nums1[x--]: nums2[y--];
+        }
+    }
