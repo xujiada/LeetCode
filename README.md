@@ -21,3 +21,8 @@
   027 | [Remove Element ](https://leetcode.com/problems/remove-element/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/027%20Remove%20Element)            |
  034 | [Search for a Range ](https://leetcode.com/problems/search-for-a-range/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/034%20Search%20for%20a%20Range)            |
   035 | [Search Insert Position ](https://leetcode.com/problems/search-insert-position/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/035%20Search%20Insert%20Position)            |
+ 058 | [Length of Last Word ](https://leetcode.com/problems/length-of-last-word/)   |[C++](hhttps://github.com/xujiada/LeetCode/tree/master/058%20Length%20of%20Last%20Word)            |
+  083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/083%20Remove%20Duplicates%20from%20Sorted%20List)            |
+   088 | [Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/088%20Merge%20Sorted%20Array)            |
+    100 | [Same Tree ](https://leetcode.com/problems/same-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/101%20Symmetric%20Tree)            |
+       101 | [Symmetric Tree  ](https://leetcode.com/problems/symmetric-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/100%20Same%20Tree)            |
