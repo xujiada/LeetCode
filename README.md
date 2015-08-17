@@ -27,4 +27,5 @@
     100 | [Same Tree ](https://leetcode.com/problems/same-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/101%20Symmetric%20Tree)            |
        101 | [Symmetric Tree  ](https://leetcode.com/problems/symmetric-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/100%20Same%20Tree)            |
        104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/104%20Maximum%20Depth%20of%20Binary%20Tree)            |
-       104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/minimum-depth-of-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/111%20Minimum%20Depth%20of%20Binary%20Tree)            |
+       111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/111%20Minimum%20Depth%20of%20Binary%20Tree)            |
+       191| [Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/191%20Number%20of%201%20Bits)            |
