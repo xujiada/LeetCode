@@ -6,7 +6,7 @@ A happy number is a number defined by the following process: Starting with any p
 
 Example: 19 is a happy number
 
-12 + 92 = 82
-82 + 22 = 68
-62 + 82 = 100
-12 + 02 + 02 = 1
+12 + 92 = 82 <br>
+82 + 22 = 68 <br>
+62 + 82 = 100 <br>
+12 + 02 + 02 = 1 <br>
