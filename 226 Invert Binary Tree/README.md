@@ -1,8 +1,7 @@
 Invert Binary Tree 
 ==
-Invert a binary tree.
-
-     4 
+Invert a binary tree. <br>
+4 <br>
    /   \ <br>
   2     7<br>
  / \   / \ <br>
