@@ -18,7 +18,7 @@
   024 | [Swap Nodes in Pairs  ](https://leetcode.com/problems/swap-nodes-in-pairs/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/024%20Swap%20Nodes%20in%20Pairs)            |
   026 | [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/026%20Remove%20Duplicates%20from%20Sorted%20Array)            |
   027 | [Remove Element ](https://leetcode.com/problems/remove-element/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/027%20Remove%20Element)            |
- 028 | [Implement strStr()  ](https://leetcode.com/problems/implement-strstr/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/028%20Implement%20strStr())            |
+ 028 | [Implement strStr()  ](https://leetcode.com/problems/implement-strstr/)          |[C](https://github.com/xujiada/LeetCode/tree/master/028%20Implement%20strStr())            |
  034 | [Search for a Range ](https://leetcode.com/problems/search-for-a-range/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/034%20Search%20for%20a%20Range)            |
   035 | [Search Insert Position ](https://leetcode.com/problems/search-insert-position/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/035%20Search%20Insert%20Position)            |
  050 | [Pow(x, n) ](https://leetcode.com/problems/powx-n/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/50%20Pow(x%2C%20n))            | 
@@ -26,7 +26,10 @@
   083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/083%20Remove%20Duplicates%20from%20Sorted%20List)            |
    088 | [Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/088%20Merge%20Sorted%20Array)            |
     100 | [Same Tree ](https://leetcode.com/problems/same-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/101%20Symmetric%20Tree)            |
-       101 | [Symmetric Tree  ](https://leetcode.com/problems/symmetric-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/100%20Same%20Tree)            |
-       104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/104%20Maximum%20Depth%20of%20Binary%20Tree)            |
-       111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/111%20Minimum%20Depth%20of%20Binary%20Tree)            |
+ 101 | [Symmetric Tree  ](https://leetcode.com/problems/symmetric-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/100%20Same%20Tree)            |
+ 104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/104%20Maximum%20Depth%20of%20Binary%20Tree)            |
+ 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/111%20Minimum%20Depth%20of%20Binary%20Tree)            |
+ 112 | [Path Sum  ](https://leetcode.com/problems/path-sum/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/112%20Path%20Sum)            |
+ 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/118%20Pascal's%20Triangle)            |
+  125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/125%20Valid%20Palindrome)            |
        191| [Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/191%20Number%20of%201%20Bits)            |
