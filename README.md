@@ -34,3 +34,5 @@
   125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/125%20Valid%20Palindrome)            |
        191| [Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/191%20Number%20of%201%20Bits)            |
   202| [Happy Number  ](https://leetcode.com/problems/number-of-1-bits/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/202%20Happy%20Number)            |
+  226| [Invert Binary Tree ](https://leetcode.com/problems/invert-binary-tree/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/226%20Invert%20Binary%20Tree)            |
+    237| [Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/237%20Delete%20Node%20in%20a%20Linked%20List)            |
