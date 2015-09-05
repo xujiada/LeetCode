@@ -33,3 +33,4 @@
  118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/118%20Pascal's%20Triangle)            |
   125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/125%20Valid%20Palindrome)            |
        191| [Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/191%20Number%20of%201%20Bits)            |
+  202| [Happy Number  ](https://leetcode.com/problems/number-of-1-bits/)          |[C++](https://github.com/xujiada/LeetCode/tree/master/202%20Happy%20Number)            |
