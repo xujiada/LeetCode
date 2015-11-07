@@ -14,3 +14,4 @@ According to the definition of LCA on Wikipedia: “The lowest common ancestor i
   
 For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another example is LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
 
+求他们的最近共同祖先，先判断两个节点是在头结点的左边还是右边，然后再进行递归。
