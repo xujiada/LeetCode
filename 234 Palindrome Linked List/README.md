@@ -22,4 +22,4 @@ public:
         temp = temp->next;
         return isPal;
     }
-};
+    };
