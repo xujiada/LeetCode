@@ -23,4 +23,4 @@ Could you do it in O(n) time and O(1) space?
         temp = temp->next;
         return isPal;
     }
-};
+    };
