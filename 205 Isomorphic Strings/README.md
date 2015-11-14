@@ -40,7 +40,7 @@ You may assume both s and t have the same length.
                 return false; <br>
         } <br>
         
-        return true; <br>
+        return true; 
     } 
     一直会有一个不通过，应该是"\\"的问题。。。
     
